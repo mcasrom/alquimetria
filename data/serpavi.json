@@ -1,0 +1,1075 @@
+{
+ "fuente": "Ministerio de Vivienda y Agenda Urbana (SERPAVI)",
+ "nivel": "CCAA",
+ "periodo": "2011-2024",
+ "actualizado": "2026-03",
+ "datos": {
+  "1": {
+   "nombre": "Andalucía",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 425.6,
+     "alquiler_m2": 5.47
+    },
+    "2012": {
+     "alquiler_mensual": 416.7,
+     "alquiler_m2": 5.35
+    },
+    "2013": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.11
+    },
+    "2014": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.06
+    },
+    "2015": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.03
+    },
+    "2016": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.16
+    },
+    "2017": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.28
+    },
+    "2018": {
+     "alquiler_mensual": 420.0,
+     "alquiler_m2": 5.47
+    },
+    "2019": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.92
+    },
+    "2020": {
+     "alquiler_mensual": 458.4,
+     "alquiler_m2": 6.06
+    },
+    "2021": {
+     "alquiler_mensual": 483.0,
+     "alquiler_m2": 6.3
+    },
+    "2022": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.6
+    },
+    "2023": {
+     "alquiler_mensual": 525.0,
+     "alquiler_m2": 6.95
+    },
+    "2024": {
+     "alquiler_mensual": 550.0,
+     "alquiler_m2": 7.35
+    }
+   }
+  },
+  "2": {
+   "nombre": "Aragón",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 422.1,
+     "alquiler_m2": 5.84
+    },
+    "2012": {
+     "alquiler_mensual": 402.9,
+     "alquiler_m2": 5.63
+    },
+    "2013": {
+     "alquiler_mensual": 395.0,
+     "alquiler_m2": 5.35
+    },
+    "2014": {
+     "alquiler_mensual": 377.7,
+     "alquiler_m2": 5.22
+    },
+    "2015": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 5.19
+    },
+    "2016": {
+     "alquiler_mensual": 375.6,
+     "alquiler_m2": 5.25
+    },
+    "2017": {
+     "alquiler_mensual": 381.0,
+     "alquiler_m2": 5.33
+    },
+    "2018": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.49
+    },
+    "2019": {
+     "alquiler_mensual": 415.9,
+     "alquiler_m2": 5.87
+    },
+    "2020": {
+     "alquiler_mensual": 430.0,
+     "alquiler_m2": 6.02
+    },
+    "2021": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 6.22
+    },
+    "2022": {
+     "alquiler_mensual": 456.4,
+     "alquiler_m2": 6.47
+    },
+    "2023": {
+     "alquiler_mensual": 483.9,
+     "alquiler_m2": 6.77
+    },
+    "2024": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 7.1
+    }
+   }
+  },
+  "3": {
+   "nombre": "Principado de Asturias",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.42
+    },
+    "2012": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.42
+    },
+    "2013": {
+     "alquiler_mensual": 383.1,
+     "alquiler_m2": 5.25
+    },
+    "2014": {
+     "alquiler_mensual": 380.0,
+     "alquiler_m2": 5.21
+    },
+    "2015": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 5.16
+    },
+    "2016": {
+     "alquiler_mensual": 380.0,
+     "alquiler_m2": 5.26
+    },
+    "2017": {
+     "alquiler_mensual": 385.0,
+     "alquiler_m2": 5.33
+    },
+    "2018": {
+     "alquiler_mensual": 398.0,
+     "alquiler_m2": 5.43
+    },
+    "2019": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.71
+    },
+    "2020": {
+     "alquiler_mensual": 410.0,
+     "alquiler_m2": 5.81
+    },
+    "2021": {
+     "alquiler_mensual": 425.0,
+     "alquiler_m2": 5.95
+    },
+    "2022": {
+     "alquiler_mensual": 440.0,
+     "alquiler_m2": 6.13
+    },
+    "2023": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 6.36
+    },
+    "2024": {
+     "alquiler_mensual": 467.7,
+     "alquiler_m2": 6.62
+    }
+   }
+  },
+  "4": {
+   "nombre": "Illes Balears",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.06
+    },
+    "2012": {
+     "alquiler_mensual": 491.7,
+     "alquiler_m2": 6.0
+    },
+    "2013": {
+     "alquiler_mensual": 476.7,
+     "alquiler_m2": 5.9
+    },
+    "2014": {
+     "alquiler_mensual": 480.0,
+     "alquiler_m2": 5.94
+    },
+    "2015": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.05
+    },
+    "2016": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.25
+    },
+    "2017": {
+     "alquiler_mensual": 506.9,
+     "alquiler_m2": 6.54
+    },
+    "2018": {
+     "alquiler_mensual": 550.0,
+     "alquiler_m2": 7.03
+    },
+    "2019": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 7.72
+    },
+    "2020": {
+     "alquiler_mensual": 605.0,
+     "alquiler_m2": 7.84
+    },
+    "2021": {
+     "alquiler_mensual": 644.1,
+     "alquiler_m2": 8.12
+    },
+    "2022": {
+     "alquiler_mensual": 670.8,
+     "alquiler_m2": 8.6
+    },
+    "2023": {
+     "alquiler_mensual": 700.0,
+     "alquiler_m2": 9.09
+    },
+    "2024": {
+     "alquiler_mensual": 750.0,
+     "alquiler_m2": 9.62
+    }
+   }
+  },
+  "5": {
+   "nombre": "Canarias",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.56
+    },
+    "2012": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.45
+    },
+    "2013": {
+     "alquiler_mensual": 390.0,
+     "alquiler_m2": 5.32
+    },
+    "2014": {
+     "alquiler_mensual": 385.0,
+     "alquiler_m2": 5.3
+    },
+    "2015": {
+     "alquiler_mensual": 390.0,
+     "alquiler_m2": 5.32
+    },
+    "2016": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.42
+    },
+    "2017": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.57
+    },
+    "2018": {
+     "alquiler_mensual": 410.0,
+     "alquiler_m2": 5.8
+    },
+    "2019": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 6.3
+    },
+    "2020": {
+     "alquiler_mensual": 450.7,
+     "alquiler_m2": 6.45
+    },
+    "2021": {
+     "alquiler_mensual": 475.0,
+     "alquiler_m2": 6.67
+    },
+    "2022": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.97
+    },
+    "2023": {
+     "alquiler_mensual": 508.3,
+     "alquiler_m2": 7.34
+    },
+    "2024": {
+     "alquiler_mensual": 550.0,
+     "alquiler_m2": 7.75
+    }
+   }
+  },
+  "6": {
+   "nombre": "Cantabria",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 442.4,
+     "alquiler_m2": 5.9
+    },
+    "2012": {
+     "alquiler_mensual": 430.0,
+     "alquiler_m2": 5.8
+    },
+    "2013": {
+     "alquiler_mensual": 405.6,
+     "alquiler_m2": 5.56
+    },
+    "2014": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.46
+    },
+    "2015": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.38
+    },
+    "2016": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.48
+    },
+    "2017": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.56
+    },
+    "2018": {
+     "alquiler_mensual": 410.2,
+     "alquiler_m2": 5.67
+    },
+    "2019": {
+     "alquiler_mensual": 447.7,
+     "alquiler_m2": 6.0
+    },
+    "2020": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 6.13
+    },
+    "2021": {
+     "alquiler_mensual": 453.0,
+     "alquiler_m2": 6.32
+    },
+    "2022": {
+     "alquiler_mensual": 479.9,
+     "alquiler_m2": 6.54
+    },
+    "2023": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.85
+    },
+    "2024": {
+     "alquiler_mensual": 520.0,
+     "alquiler_m2": 7.22
+    }
+   }
+  },
+  "7": {
+   "nombre": "Castilla y León",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 390.0,
+     "alquiler_m2": 4.69
+    },
+    "2012": {
+     "alquiler_mensual": 381.2,
+     "alquiler_m2": 4.66
+    },
+    "2013": {
+     "alquiler_mensual": 369.0,
+     "alquiler_m2": 4.5
+    },
+    "2014": {
+     "alquiler_mensual": 360.6,
+     "alquiler_m2": 4.48
+    },
+    "2015": {
+     "alquiler_mensual": 360.0,
+     "alquiler_m2": 4.46
+    },
+    "2016": {
+     "alquiler_mensual": 370.0,
+     "alquiler_m2": 4.55
+    },
+    "2017": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 4.63
+    },
+    "2018": {
+     "alquiler_mensual": 381.7,
+     "alquiler_m2": 4.74
+    },
+    "2019": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.01
+    },
+    "2020": {
+     "alquiler_mensual": 401.1,
+     "alquiler_m2": 5.13
+    },
+    "2021": {
+     "alquiler_mensual": 420.0,
+     "alquiler_m2": 5.27
+    },
+    "2022": {
+     "alquiler_mensual": 435.0,
+     "alquiler_m2": 5.47
+    },
+    "2023": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.69
+    },
+    "2024": {
+     "alquiler_mensual": 470.3,
+     "alquiler_m2": 5.97
+    }
+   }
+  },
+  "8": {
+   "nombre": "Castilla-La Mancha",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.86
+    },
+    "2012": {
+     "alquiler_mensual": 393.0,
+     "alquiler_m2": 4.65
+    },
+    "2013": {
+     "alquiler_mensual": 360.0,
+     "alquiler_m2": 4.36
+    },
+    "2014": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.22
+    },
+    "2015": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.13
+    },
+    "2016": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.21
+    },
+    "2017": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.26
+    },
+    "2018": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.38
+    },
+    "2019": {
+     "alquiler_mensual": 388.0,
+     "alquiler_m2": 4.71
+    },
+    "2020": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.85
+    },
+    "2021": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.01
+    },
+    "2022": {
+     "alquiler_mensual": 425.0,
+     "alquiler_m2": 5.25
+    },
+    "2023": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.56
+    },
+    "2024": {
+     "alquiler_mensual": 471.3,
+     "alquiler_m2": 5.86
+    }
+   }
+  },
+  "9": {
+   "nombre": "Cataluña",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 548.0,
+     "alquiler_m2": 7.51
+    },
+    "2012": {
+     "alquiler_mensual": 525.0,
+     "alquiler_m2": 7.27
+    },
+    "2013": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.94
+    },
+    "2014": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.85
+    },
+    "2015": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.88
+    },
+    "2016": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 7.04
+    },
+    "2017": {
+     "alquiler_mensual": 506.9,
+     "alquiler_m2": 7.25
+    },
+    "2018": {
+     "alquiler_mensual": 543.0,
+     "alquiler_m2": 7.58
+    },
+    "2019": {
+     "alquiler_mensual": 587.5,
+     "alquiler_m2": 8.22
+    },
+    "2020": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 8.45
+    },
+    "2021": {
+     "alquiler_mensual": 613.5,
+     "alquiler_m2": 8.69
+    },
+    "2022": {
+     "alquiler_mensual": 647.9,
+     "alquiler_m2": 9.04
+    },
+    "2023": {
+     "alquiler_mensual": 666.9,
+     "alquiler_m2": 9.44
+    },
+    "2024": {
+     "alquiler_mensual": 700.0,
+     "alquiler_m2": 9.84
+    }
+   }
+  },
+  "10": {
+   "nombre": "Comunitat Valenciana",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 390.0,
+     "alquiler_m2": 4.44
+    },
+    "2012": {
+     "alquiler_mensual": 372.0,
+     "alquiler_m2": 4.3
+    },
+    "2013": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.1
+    },
+    "2014": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.02
+    },
+    "2015": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.02
+    },
+    "2016": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.12
+    },
+    "2017": {
+     "alquiler_mensual": 356.2,
+     "alquiler_m2": 4.22
+    },
+    "2018": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 4.39
+    },
+    "2019": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.79
+    },
+    "2020": {
+     "alquiler_mensual": 420.0,
+     "alquiler_m2": 4.96
+    },
+    "2021": {
+     "alquiler_mensual": 447.1,
+     "alquiler_m2": 5.19
+    },
+    "2022": {
+     "alquiler_mensual": 456.2,
+     "alquiler_m2": 5.5
+    },
+    "2023": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 5.87
+    },
+    "2024": {
+     "alquiler_mensual": 525.8,
+     "alquiler_m2": 6.32
+    }
+   }
+  },
+  "11": {
+   "nombre": "Extremadura",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 3.96
+    },
+    "2012": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 3.94
+    },
+    "2013": {
+     "alquiler_mensual": 337.5,
+     "alquiler_m2": 3.84
+    },
+    "2014": {
+     "alquiler_mensual": 330.0,
+     "alquiler_m2": 3.77
+    },
+    "2015": {
+     "alquiler_mensual": 325.0,
+     "alquiler_m2": 3.72
+    },
+    "2016": {
+     "alquiler_mensual": 333.3,
+     "alquiler_m2": 3.8
+    },
+    "2017": {
+     "alquiler_mensual": 338.3,
+     "alquiler_m2": 3.85
+    },
+    "2018": {
+     "alquiler_mensual": 349.0,
+     "alquiler_m2": 3.91
+    },
+    "2019": {
+     "alquiler_mensual": 356.6,
+     "alquiler_m2": 4.14
+    },
+    "2020": {
+     "alquiler_mensual": 364.3,
+     "alquiler_m2": 4.24
+    },
+    "2021": {
+     "alquiler_mensual": 375.7,
+     "alquiler_m2": 4.35
+    },
+    "2022": {
+     "alquiler_mensual": 395.0,
+     "alquiler_m2": 4.52
+    },
+    "2023": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.72
+    },
+    "2024": {
+     "alquiler_mensual": 425.0,
+     "alquiler_m2": 4.99
+    }
+   }
+  },
+  "12": {
+   "nombre": "Galicia",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 354.9,
+     "alquiler_m2": 4.46
+    },
+    "2012": {
+     "alquiler_mensual": 352.0,
+     "alquiler_m2": 4.47
+    },
+    "2013": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.37
+    },
+    "2014": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.34
+    },
+    "2015": {
+     "alquiler_mensual": 349.6,
+     "alquiler_m2": 4.32
+    },
+    "2016": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.38
+    },
+    "2017": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.44
+    },
+    "2018": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.52
+    },
+    "2019": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 4.78
+    },
+    "2020": {
+     "alquiler_mensual": 380.0,
+     "alquiler_m2": 4.9
+    },
+    "2021": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.06
+    },
+    "2022": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 5.24
+    },
+    "2023": {
+     "alquiler_mensual": 422.7,
+     "alquiler_m2": 5.47
+    },
+    "2024": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.77
+    }
+   }
+  },
+  "13": {
+   "nombre": "Comunidad de Madrid",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 650.0,
+     "alquiler_m2": 9.55
+    },
+    "2012": {
+     "alquiler_mensual": 623.0,
+     "alquiler_m2": 9.26
+    },
+    "2013": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 8.72
+    },
+    "2014": {
+     "alquiler_mensual": 575.0,
+     "alquiler_m2": 8.49
+    },
+    "2015": {
+     "alquiler_mensual": 570.0,
+     "alquiler_m2": 8.51
+    },
+    "2016": {
+     "alquiler_mensual": 587.5,
+     "alquiler_m2": 8.69
+    },
+    "2017": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 8.9
+    },
+    "2018": {
+     "alquiler_mensual": 612.5,
+     "alquiler_m2": 9.29
+    },
+    "2019": {
+     "alquiler_mensual": 677.5,
+     "alquiler_m2": 10.16
+    },
+    "2020": {
+     "alquiler_mensual": 700.0,
+     "alquiler_m2": 10.42
+    },
+    "2021": {
+     "alquiler_mensual": 700.0,
+     "alquiler_m2": 10.66
+    },
+    "2022": {
+     "alquiler_mensual": 737.5,
+     "alquiler_m2": 11.09
+    },
+    "2023": {
+     "alquiler_mensual": 759.3,
+     "alquiler_m2": 11.54
+    },
+    "2024": {
+     "alquiler_mensual": 800.0,
+     "alquiler_m2": 12.12
+    }
+   }
+  },
+  "14": {
+   "nombre": "Región de Murcia",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 366.7,
+     "alquiler_m2": 4.19
+    },
+    "2012": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.08
+    },
+    "2013": {
+     "alquiler_mensual": 345.8,
+     "alquiler_m2": 3.9
+    },
+    "2014": {
+     "alquiler_mensual": 330.0,
+     "alquiler_m2": 3.81
+    },
+    "2015": {
+     "alquiler_mensual": 330.0,
+     "alquiler_m2": 3.8
+    },
+    "2016": {
+     "alquiler_mensual": 340.0,
+     "alquiler_m2": 3.85
+    },
+    "2017": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 3.92
+    },
+    "2018": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.05
+    },
+    "2019": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 4.34
+    },
+    "2020": {
+     "alquiler_mensual": 390.0,
+     "alquiler_m2": 4.44
+    },
+    "2021": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.62
+    },
+    "2022": {
+     "alquiler_mensual": 404.1,
+     "alquiler_m2": 4.84
+    },
+    "2023": {
+     "alquiler_mensual": 439.4,
+     "alquiler_m2": 5.08
+    },
+    "2024": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.38
+    }
+   }
+  },
+  "15": {
+   "nombre": "Comunidad Foral de Navarra",
+   "serie": {
+    "2021": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 5.85
+    },
+    "2022": {
+     "alquiler_mensual": 545.0,
+     "alquiler_m2": 6.18
+    },
+    "2023": {
+     "alquiler_mensual": 573.5,
+     "alquiler_m2": 6.59
+    },
+    "2024": {
+     "alquiler_mensual": 598.4,
+     "alquiler_m2": 6.86
+    }
+   }
+  },
+  "16": {
+   "nombre": "País Vasco",
+   "serie": {
+    "2024": {
+     "alquiler_mensual": 729.1,
+     "alquiler_m2": 10.09
+    }
+   }
+  },
+  "17": {
+   "nombre": "La Rioja",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.9
+    },
+    "2012": {
+     "alquiler_mensual": 391.7,
+     "alquiler_m2": 4.72
+    },
+    "2013": {
+     "alquiler_mensual": 366.7,
+     "alquiler_m2": 4.43
+    },
+    "2014": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.32
+    },
+    "2015": {
+     "alquiler_mensual": 350.0,
+     "alquiler_m2": 4.31
+    },
+    "2016": {
+     "alquiler_mensual": 358.8,
+     "alquiler_m2": 4.39
+    },
+    "2017": {
+     "alquiler_mensual": 367.7,
+     "alquiler_m2": 4.46
+    },
+    "2018": {
+     "alquiler_mensual": 375.0,
+     "alquiler_m2": 4.55
+    },
+    "2019": {
+     "alquiler_mensual": 400.0,
+     "alquiler_m2": 4.86
+    },
+    "2020": {
+     "alquiler_mensual": 403.3,
+     "alquiler_m2": 5.0
+    },
+    "2021": {
+     "alquiler_mensual": 423.0,
+     "alquiler_m2": 5.16
+    },
+    "2022": {
+     "alquiler_mensual": 450.0,
+     "alquiler_m2": 5.38
+    },
+    "2023": {
+     "alquiler_mensual": 453.0,
+     "alquiler_m2": 5.63
+    },
+    "2024": {
+     "alquiler_mensual": 482.8,
+     "alquiler_m2": 5.91
+    }
+   }
+  },
+  "18": {
+   "nombre": "Ceuta",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 566.2,
+     "alquiler_m2": 7.69
+    },
+    "2012": {
+     "alquiler_mensual": 583.3,
+     "alquiler_m2": 7.75
+    },
+    "2013": {
+     "alquiler_mensual": 561.9,
+     "alquiler_m2": 7.59
+    },
+    "2014": {
+     "alquiler_mensual": 558.1,
+     "alquiler_m2": 7.63
+    },
+    "2015": {
+     "alquiler_mensual": 567.0,
+     "alquiler_m2": 7.59
+    },
+    "2016": {
+     "alquiler_mensual": 590.0,
+     "alquiler_m2": 7.78
+    },
+    "2017": {
+     "alquiler_mensual": 587.5,
+     "alquiler_m2": 7.69
+    },
+    "2018": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 7.95
+    },
+    "2019": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 8.33
+    },
+    "2020": {
+     "alquiler_mensual": 623.0,
+     "alquiler_m2": 8.46
+    },
+    "2021": {
+     "alquiler_mensual": 644.7,
+     "alquiler_m2": 8.75
+    },
+    "2022": {
+     "alquiler_mensual": 650.0,
+     "alquiler_m2": 8.79
+    },
+    "2023": {
+     "alquiler_mensual": 650.0,
+     "alquiler_m2": 9.2
+    },
+    "2024": {
+     "alquiler_mensual": 675.0,
+     "alquiler_m2": 9.45
+    }
+   }
+  },
+  "19": {
+   "nombre": "Melilla",
+   "serie": {
+    "2011": {
+     "alquiler_mensual": 490.0,
+     "alquiler_m2": 6.84
+    },
+    "2012": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.92
+    },
+    "2013": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.96
+    },
+    "2014": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 6.95
+    },
+    "2015": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 7.04
+    },
+    "2016": {
+     "alquiler_mensual": 500.0,
+     "alquiler_m2": 7.03
+    },
+    "2017": {
+     "alquiler_mensual": 520.0,
+     "alquiler_m2": 7.43
+    },
+    "2018": {
+     "alquiler_mensual": 530.0,
+     "alquiler_m2": 7.55
+    },
+    "2019": {
+     "alquiler_mensual": 550.0,
+     "alquiler_m2": 7.89
+    },
+    "2020": {
+     "alquiler_mensual": 553.6,
+     "alquiler_m2": 8.11
+    },
+    "2021": {
+     "alquiler_mensual": 564.6,
+     "alquiler_m2": 8.34
+    },
+    "2022": {
+     "alquiler_mensual": 587.6,
+     "alquiler_m2": 8.6
+    },
+    "2023": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 8.75
+    },
+    "2024": {
+     "alquiler_mensual": 600.0,
+     "alquiler_m2": 9.1
+    }
+   }
+  }
+ }
+}
