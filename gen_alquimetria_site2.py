@@ -122,7 +122,9 @@ a {{ color: #67e8f9; }}
   <div class="kpi"><div class="n">{min24[3]:,.0f} €</div><div class="l">alquiler más bajo 2024: {min24[1]}</div></div>
 </div>
 
-<div class="note">⚠️ <b>Último dato definitivo: 2024.</b> La estadística oficial SERPAVI se publica con desfase anual (el definitivo de 2025 aún no está publicado por el Ministerio). Esta página se actualiza cuando el organismo lo publica. Los precios de mercado han seguido subiendo desde 2024; aquí solo se muestran cifras oficiales verificables.</div>
+<div class="note">⚠️ <b>Último dato definitivo: 2024.</b> La estadística oficial SERPAVI se publica con desfase anual (el definitivo de 2025 aún no está publicado por el Ministerio). Los precios de mercado han seguido subiendo desde 2024.
+<br><br>
+<b>¿Por qué la cifra parece baja?</b> Es la <b>mediana de la cuantía mensual de TODOS los contratos de alquiler de la comunidad</b> (SERPAVI): incluye contratos antiguos (con rentas congeladas), viviendas pequeñas y todo el territorio de la región — <b>no es el precio que paga un inquilino nuevo hoy</b>. Los portales de mercado (idealista, Fotocasa) muestran cifras superiores para nuevas contrataciones. Es una estadística oficial de referencia, no un precio orientativo de mercado.</div>
 
 <p style="font-size:0.85em;color:#8993a8;">Ranking por subida (2011 → 2024):</p>
 {cards_html}
