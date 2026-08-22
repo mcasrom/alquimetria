@@ -1,0 +1,16 @@
+# Alquimetría
+
+> Evolución del precio del alquiler por comunidad autónoma en España (serie oficial 2011-2024), con datos del SERPAVI (Ministerio de Vivienda y Agenda Urbana). Mediana mensual de la cuantía del alquiler, vivienda colectiva. Datos oficiales y trazables, sin cookies.
+
+## Páginas principales
+
+- [Ranking de la subida del alquiler por comunidad autónoma](https://alquimetria.viajeinteligencia.com/): 2011-2024, con gráficos y FAQ SERPAVI vs IRAV.
+- [SERPAVI vs IRAV: qué cambia en 2026](https://alquimetria.viajeinteligencia.com/serpavi-vs-irav.html): la diferencia entre el índice orientativo y el índice legal.
+- [Evolución del alquiler en cada comunidad](https://alquimetria.viajeinteligencia.com/ccaa/andalucia.html): una página por CCAA con la serie completa (ej.: /ccaa/andalucia.html, /ccaa/comunidad-de-madrid.html, /ccaa/region-de-murcia.html).
+
+## Datos y fuente
+
+- SERPAVI (Ministerio de Vivienda y Agenda Urbana), mediana mensual de la cuantía del alquiler de vivienda colectiva, serie 2011-2024.
+- Aviso: es evolución histórica, no el precio de mercado de hoy. El IRAV (INE) es el índice legal para actualizar contratos existentes.
+
+© 2026 M. Castillo. Ecosistema: https://www.viajeinteligencia.com · Población de los municipios: https://municipal.viajeinteligencia.com
